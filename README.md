@@ -10,7 +10,7 @@
 <a href="https://github.com/watson-xd6/PRECIOUS-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/watson-xd6/PRECIOUS-MD?style=social"></a>
 <a href="https://github.com/watson-xd6/PRECIOUS-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/watson-xd6/PRECIOUS-MD?label=Watching&style=social"></a>
 <!-- Repo Size -->
-  <img src="https://img.shields.io/github/repo-size/watson-xd6/PRECIOUS-MD-MD?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
+  <img src="https://img.shields.io/github/repo-size/watson-xd6/PRECIOUS-MD?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
   <!-- Developer -->
   <img src="https://img.shields.io/static/v1?label=OWNER&message=WATSON%20XD&color=blue&style=plastic" alt="Developer Badge">
 </p>        
